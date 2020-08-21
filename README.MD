@@ -1,4 +1,4 @@
-Static Website Example
+DEVLABS PROJECT
 ----------------------
 
 To be used with Cloud Academy labs.
